@@ -1,0 +1,35 @@
+[
+    {
+        "name": "rocklets",
+        "price": 200,
+        "img": "rocklets.webp",
+        "id": 1,
+        "stock": 25,
+        "description": "confites de Chocolate multicolor",
+        "timestamp": "1.660.240.708.004",
+        "code": "bbd30c0218",
+        "enable": "true"
+    },
+    {
+        "name": "Chocolate Aguila",
+        "price": 500,
+        "img": "aguila.png",
+        "id": 2,
+        "stock": 15,
+        "description": "chocolate negro, amargo en barras",
+        "timestamp": "1.660.240.708.004",
+        "code": "1d4d6c4c93",
+        "enable": "true"
+    },
+    {
+        "name": "Cadbury Frutilla",
+        "price": 350,
+        "img": "cadburyy.webp",
+        "id": 3,
+        "stock": 30,
+        "description": "chocolate blanco con frutilla dentro",
+        "timestamp": "1.660.240.708.004",
+        "code": "1b07c65ee79",
+        "enable": "true"
+    }
+]
