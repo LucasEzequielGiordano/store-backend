@@ -70,7 +70,7 @@ class ProductManager {
         }
     };
 
-    createCode = async (products) => {
+    createCode = (products) => {
         let code = "";
         do {
             code = (Math.random() + 1).toString(15).substring(5);
